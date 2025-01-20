@@ -43,3 +43,9 @@
 4. In **Single Mode**, tap to select winners.
 5. In **Group Mode**, multiple users can participate, and the app will randomly assign them to teams.
 
+---
+
+## License
+
+© Adam Burmuzoski. All rights reserved.
+
